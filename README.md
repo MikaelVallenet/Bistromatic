@@ -3,7 +3,7 @@
 ## Warning :warning:
 
 I want to specify that for this project, we were beginners.\
-I and David had started the programming 3 weeks ago,\
+I and David did the program in 3 weeks,\
 which explains a rough code and some memory errors. \
 Despite that we got 100% in the correction.
 
