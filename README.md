@@ -29,7 +29,7 @@ we were allowed to use : write, exit, malloc, free and read
 
 ## Results :trophy:
 
-|                          Dependency                        |      License       |
+|                          Label                        |      Mark       |
 |:----------------------------------------------------------:|:------------------:|
 |           Syntax Errors | 12 / 12 |
 | Addition    | 14 / 14        |
